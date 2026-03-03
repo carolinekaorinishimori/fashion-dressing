@@ -1,0 +1,47 @@
+{
+    "categories": [
+        {
+            "id": "body",
+            "name": "Body",
+            "layerIndex": 0,
+            "items": [
+                { "id": "body_fair", "name": "Fair Skin", "path": "assets/body/body_fair.png" }
+            ]
+        },
+        {
+            "id": "hair",
+            "name": "Hair",
+            "layerIndex": 10,
+            "items": [
+                { "id": "hair_blonde_bob", "name": "Blonde Bob", "path": "assets/hair/hair_blonde_bob.png" }
+            ]
+        },
+        {
+            "id": "clothing",
+            "name": "Clothing",
+            "layerIndex": 20,
+            "items": [
+                { "id": "dress_floral", "name": "Floral Dress", "path": "assets/clothing/dress_floral.png" },
+                { "id": "top_blue", "name": "Blue Top", "path": "assets/clothing/top_blue.png" },
+                { "id": "jeans_classic", "name": "Classic Jeans", "path": "assets/clothing/jeans_classic.png" }
+            ]
+        },
+        {
+            "id": "accessories",
+            "name": "Accessories",
+            "layerIndex": 30,
+            "items": [
+                { "id": "necklace_gold", "name": "Gold Necklace", "path": "assets/accessories/necklace_gold.png" },
+                { "id": "nails_red", "name": "Red Nails", "path": "assets/nails/nails_red.png" }
+            ]
+        },
+        {
+            "id": "shoes",
+            "name": "Shoes",
+            "layerIndex": 40,
+            "items": [
+                { "id": "sneakers_white", "name": "White Sneakers", "path": "assets/shoes/sneakers_white.png" }
+            ]
+        }
+    ]
+}
